@@ -79,7 +79,7 @@
 
 推荐路线：
 
-**Twizel → Lake Pukaki → Aoraki / Mt Cook Village → Hooker Valley / Tasman Glacier View → Omarama → Lindis Pass → Wanaka**
+**Twizel → Lake Pukaki → Aoraki / Mt Cook Village → Hooker Valley 开放段 / Kea Point / Tasman Glacier View → Omarama → Lindis Pass → Wanaka**
 
 预计驾驶时间：
 
@@ -95,17 +95,32 @@
 
 | 时间          | 安排                            |
 | ----------- | ----------------------------- |
-| 08:30       | Twizel 出发                     |
-| 09:00–10:00 | Lake Pukaki / Peter’s Lookout |
-| 10:30       | 到 Mt Cook Village             |
-| 10:45–14:00 | Hooker Valley Track           |
-| 14:00–15:00 | 午餐 / 休息                       |
-| 15:00–17:30 | 开往 Wanaka                     |
+| 08:00       | Twizel 出发                     |
+| 08:30–09:00 | Lake Pukaki / Peter’s Lookout |
+| 09:45       | 到 White Horse Hill car park   |
+| 10:00–11:15 | Hooker Valley Track 开放段       |
+| 11:15–12:30 | Kea Point Track                |
+| 12:45–13:30 | Mt Cook Village 午餐 / 咖啡        |
+| 13:45–14:30 | Tasman Glacier View Track      |
+| 14:30–17:30 | 开往 Wanaka                     |
 | 17:30–18:00 | 到 Wanaka                      |
+
+说明：
+
+* Hooker Valley Track 目前只开放到 Kakīroa / Mount Sefton View Lookout，约 4.3 km 往返、1 小时左右，不是完整 Hooker Valley。
+* 这段仍然值得走，可以看 Mueller Lake、Mueller Glacier、Mount Sefton 一带，但对 Aoraki / Mt Cook 主峰视野有限。
+* Kea Point Track 是目前更适合作为完整 Hooker Valley 替代的短线，从 White Horse Hill 出发约 1 小时往返。
+* Tasman Glacier View Track 很短，约 30–45 分钟，适合作为离开 Mt Cook 前的补充。
 
 天气差版本：
 
-如果风大、下雪、云很低或路面滑，不建议硬走完整 Hooker Valley。可以改成：
+如果风大、下雪、云很低或路面滑，不建议硬走三条步道。可以按优先级删减：
+
+1. 优先保留 Kea Point Track
+2. 其次保留 Tasman Glacier View Track
+3. 最后再考虑 Hooker Valley Track 开放段
+
+天气差版本可以改成：
 
 * Lake Pukaki 拍照
 * Mt Cook Village
@@ -117,7 +132,7 @@
 
 * Lake Pukaki
 * Aoraki / Mt Cook Village
-* Hooker Valley Track
+* Hooker Valley Track 开放段
 * Kea Point Track
 * Tasman Glacier View
 * Lindis Pass
@@ -307,15 +322,16 @@
 | Geraldine → Christchurch Airport |     约 2–2.5小时 |
 | **合计纯驾驶**                        | **约 4–4.5小时** |
 
-如果返程航班是 **下午 3 点以后**：
+返程航班是 **下午 5 点**，从 Twizel 当天开回 Christchurch Airport 可以，但要留足冬季路况、还车和值机时间。
 
 | 时间          | 安排                        |
 | ----------- | ------------------------- |
-| 08:00       | Twizel 出发                 |
-| 09:00       | Tekapo 简单停留 / 咖啡          |
-| 10:30       | Fairlie / Geraldine 休息    |
-| 13:00–13:30 | 到 Christchurch Airport 附近 |
-| 之后          | 还车、值机、返程                  |
+| 07:30–08:00 | Twizel 出发                 |
+| 08:45–09:15 | Tekapo 简单停留 / 咖啡          |
+| 10:30–11:00 | Fairlie / Geraldine 休息    |
+| 13:30–14:00 | 到 Christchurch Airport 附近 |
+| 14:00–15:00 | 加油、还车、整理行李                |
+| 15:00 以后    | 值机、安检、返程                  |
 
 如果返程航班是 **中午或更早**：
 
@@ -335,7 +351,7 @@
 | 7.14 | Queenstown   | 同上                             |
 | 7.15 | Queenstown   | 同上                             |
 | 7.16 | Twizel       | 镇中心 / 停车方便的 motel              |
-| 7.17 | 返程           | 航班早则 7.16 改住 Christchurch      |
+| 7.17 | 返程           | 下午 5 点航班可从 Twizel 当天返回        |
 
 ---
 
@@ -344,4 +360,4 @@
 **7.12 是全程最重要的风景日**：Lake Pukaki + Mt Cook，尽量早出发。
 **7.13 Wanaka → Queenstown**：天气差就别走 Crown Range，改走 Cromwell。
 **7.15 Milford Sound**：巴士团很长，晚上别安排活动。
-**7.17 返程**：航班最好在下午 3 点以后；否则 7.16 直接住 Christchurch 更稳。
+**7.17 返程**：下午 5 点航班可以从 Twizel 当天返回，但建议 7:30–8:00 出发，目标 14:00 前到 Christchurch Airport 附近。
