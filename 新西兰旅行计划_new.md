@@ -1,6 +1,13 @@
-下面是改成 **7.10 出发、7.17 返程** 的最终版。整体结构不变，只是全部提前一天。
+# 新西兰南岛冬季 8 天 7 晚自驾旅行计划
+v1.1
+**行程日期：2026 年 7 月 10 日 – 7 月 17 日**  
+**路线方向：Christchurch → Tekapo / Twizel → Aoraki / Mt Cook → Wanaka → Queenstown → Twizel → Christchurch**  
+**旅行方式：自驾为主，Milford Sound 使用 Queenstown 出发的一日巴士团**  
+**返程航班：7 月 17 日下午 5 点，Christchurch Airport 出发**
 
-# 新西兰南岛 7 天自驾计划：7.10–7.17
+---
+
+## 行程总览
 
 | 日期       | 住宿           | 核心行程                                                               |
 | -------- | ------------ | ------------------------------------------------------------------ |
@@ -15,7 +22,16 @@
 
 ---
 
-## 7.10 到达 Christchurch
+## 行程原则
+
+* 7 月是新西兰南岛冬季，自驾时间尽量安排在白天，避免赶夜路。
+* 每天出发前检查天气、路况和租车公司的雪链要求，Crown Range、Lindis Pass、雪场道路尤其需要谨慎。
+* Aoraki / Mt Cook 和 Milford Sound 的行程都高度依赖天气，优先保证安全和缓冲时间。
+* 行程节奏以风景和可执行性为主，不安排过多长距离徒步。
+
+---
+
+## Day 1｜7.10 到达 Christchurch
 
 **住宿：Christchurch**
 
@@ -33,7 +49,7 @@
 
 ---
 
-## 7.11 Christchurch → Tekapo → Lake Pukaki → Twizel
+## Day 2｜7.11 Christchurch → Tekapo → Lake Pukaki → Twizel
 
 **住宿：Twizel**
 
@@ -73,7 +89,7 @@
 
 ---
 
-## 7.12 Twizel → Lake Pukaki → Aoraki / Mt Cook → Wanaka
+## Day 3｜7.12 Twizel → Lake Pukaki → Aoraki / Mt Cook → Wanaka
 
 **住宿：Wanaka**
 
@@ -140,19 +156,19 @@
 
 ---
 
-## 7.13 Wanaka → Queenstown
+## Day 4｜7.13 Wanaka → Queenstown
 
 **住宿：Queenstown**
 
 推荐路线有两个：
 
-### 方案 A：天气好，走 Crown Range
+### 方案 A｜天气好，走 Crown Range
 
 **Wanaka → Cardrona → Crown Range → Queenstown**
 
 优点是风景更好，但冬季山路风险更高。
 
-### 方案 B：天气差，走 Cromwell
+### 方案 B｜天气差，走 Cromwell
 
 **Wanaka → Cromwell → Kawarau Gorge → Queenstown**
 
@@ -187,13 +203,13 @@
 
 ---
 
-## 7.14 Queenstown 一日游 / 滑雪
+## Day 5｜7.14 Queenstown 一日游 / 滑雪
 
 **住宿：Queenstown**
 
 这天二选一。
 
-## 方案 A：Queenstown + Glenorchy 轻松一日游
+### 方案 A｜Queenstown + Glenorchy 轻松一日游
 
 路线：
 
@@ -218,7 +234,7 @@
 | 16:00–18:00 | Skyline Gondola / Queenstown Gardens |
 | 晚上          | Queenstown 市区吃饭                      |
 
-## 方案 B：滑雪日
+### 方案 B｜滑雪日
 
 推荐：
 
@@ -238,7 +254,7 @@
 
 ---
 
-## 7.15 Milford Sound 一日巴士团
+## Day 6｜7.15 Milford Sound 一日巴士团
 
 **住宿：Queenstown**
 
@@ -262,7 +278,7 @@
 
 ---
 
-## 7.16 Queenstown → Arrowtown / Cromwell → Lindis Pass → Omarama → Twizel
+## Day 7｜7.16 Queenstown → Arrowtown / Cromwell → Lindis Pass → Omarama → Twizel
 
 **住宿：Twizel**
 
@@ -306,7 +322,7 @@
 
 ---
 
-## 7.17 Twizel → Christchurch → 返程
+## Day 8｜7.17 Twizel → Christchurch → 返程
 
 推荐路线：
 
@@ -340,7 +356,7 @@
 
 ---
 
-# 最终住宿汇总
+## 住宿安排汇总
 
 | 日期   | 住宿地          | 建议区域                           |
 | ---- | ------------ | ------------------------------ |
@@ -355,7 +371,7 @@
 
 ---
 
-# 最关键提醒
+## 出行重点提醒
 
 **7.12 是全程最重要的风景日**：Lake Pukaki + Mt Cook，尽量早出发。
 **7.13 Wanaka → Queenstown**：天气差就别走 Crown Range，改走 Cromwell。
