@@ -17,7 +17,7 @@ v1.0
 | **7.11** | Twizel       | Christchurch → Geraldine / Fairlie → Lake Tekapo → Lake Pukaki → Twizel |
 | **7.12** | Wanaka       | Twizel → Lake Pukaki → Aoraki / Mt Cook → Lindis Pass → Wanaka      |
 | **7.13** | Queenstown   | Wanaka → Cardrona / Cromwell → Queenstown                           |
-| **7.14** | Queenstown   | Queenstown 一日游 / Glenorchy / 滑雪                                    |
+| **7.14** | Queenstown   | Queenstown 一日游 / Glenorchy / 跳伞 / 滑雪                                |
 | **7.15** | Queenstown   | Milford Sound 一日巴士团                                                |
 | **7.16** | 返程           | Queenstown 轻松半日 → Queenstown Airport 返程                          |
 
@@ -210,11 +210,11 @@ v1.0
 
 ---
 
-## Day 5｜7.14 Queenstown 一日游 / Glenorchy / 滑雪
+## Day 5｜7.14 Queenstown 一日游 / Glenorchy / 跳伞 / 滑雪
 
 **住宿：Queenstown**
 
-这天二选一。
+这天三选一。若想跳伞，建议优先安排上午时段，天气不合适时改成 Glenorchy 或市区轻松活动。
 
 ### 方案 A｜Queenstown + Glenorchy 轻松一日游
 
@@ -241,7 +241,32 @@ v1.0
 | 16:00–18:00 | Skyline Gondola / Queenstown Gardens |
 | 晚上          | Queenstown 市区吃饭                      |
 
-### 方案 B｜滑雪日
+### 方案 B｜跳伞 + Queenstown 轻松半日
+
+推荐：
+
+* **NZONE Skydive Queenstown**：Queenstown 经典跳伞运营商，市区有集合点，全年运营但高度依赖天气。
+* **Skydive Southern Alps**：偏 Glenorchy / Southern Alps 景观，适合想看更开阔山景和湖景的人。
+
+建议时间：
+
+| 时间          | 安排                               |
+| ----------- | -------------------------------- |
+| 08:00–09:00 | 跳伞集合 / 接送 / 报到                   |
+| 09:00–12:30 | 跳伞流程：简报、飞行、跳伞、返回                 |
+| 12:30–14:00 | Queenstown 市区午餐                    |
+| 14:00–16:00 | Lake Wakatipu / Queenstown Gardens |
+| 16:00–18:00 | Skyline Gondola 或市区休息              |
+| 晚上          | Queenstown 市区吃饭                    |
+
+注意：
+
+* 跳伞通常需要预留 3–4 小时，风、云、雨、能见度和空域情况都可能导致延误或取消。
+* 尽量订上午场，若取消还有机会改到下午或 7.16 返程前。
+* 不建议把跳伞和 Milford Sound 放在同一天；7.15 已经是长途巴士团。
+* 如果当天跳伞取消，直接切换到方案 A 的 Glenorchy 轻松一日游。
+
+### 方案 C｜滑雪日
 
 推荐：
 
