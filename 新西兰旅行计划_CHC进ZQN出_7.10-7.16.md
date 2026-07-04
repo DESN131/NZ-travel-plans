@@ -2,7 +2,7 @@
 v1.1
 
 **行程日期：2026 年 7 月 10 日 – 7 月 17 日**  
-**路线方向：Christchurch → Tekapo / Twizel → Aoraki / Mt Cook → Wanaka → Queenstown**  
+**路线方向：Christchurch → Lake Tekapo → Aoraki / Mt Cook → Wanaka → Queenstown**  
 **旅行方式：自驾为主，Milford Sound 使用 Queenstown 出发的一日巴士团**  
 **入境航班：7 月 10 日 12:55 到达 Christchurch Airport**  
 **离开新西兰：7 月 16 日 16:35 从 Queenstown Airport 出发，18:30 到达 Brisbane Airport**  
@@ -16,9 +16,9 @@ v1.1
 
 | 日期       | 住宿           | 核心行程                                                               |
 | -------- | ------------ | ------------------------------------------------------------------ |
-| **7.10** | Christchurch | 到达 Christchurch，取车、超市补给                                            |
-| **7.11** | Twizel       | Christchurch → Geraldine / Fairlie → Lake Tekapo → Lake Pukaki → Twizel |
-| **7.12** | Wanaka       | Twizel → Lake Pukaki → Aoraki / Mt Cook → Lindis Pass → Wanaka      |
+| **7.10** | Christchurch | 到达 Christchurch，取车，入住 Upper Riccarton，超市补给                         |
+| **7.11** | Lake Tekapo  | Christchurch → Geraldine / Fairlie → Lake Tekapo                    |
+| **7.12** | Wanaka       | Lake Tekapo → Lake Pukaki → Aoraki / Mt Cook → Lindis Pass → Wanaka |
 | **7.13** | Queenstown   | Wanaka → Cardrona / Cromwell → Queenstown                           |
 | **7.14** | Queenstown   | Queenstown 一日游 / Glenorchy / 跳伞 / 滑雪                                |
 | **7.15** | Queenstown   | Milford Sound 一日巴士团                                                |
@@ -41,10 +41,11 @@ v1.1
 
 **住宿：Christchurch**
 
-建议住：
+已订住宿：
 
-* **Christchurch Airport 附近**：取车、第二天出发最省事
-* **Riccarton / CBD**：吃饭、超市补给更方便
+* **Upper Riccarton, Christchurch**
+
+Upper Riccarton 适合作为第一晚住宿点：离机场不远，超市、餐厅和补给方便，第二天出城去 Lake Tekapo 也比较顺。
 
 当天安排：
 
@@ -58,93 +59,93 @@ v1.1
 | 13:00–14:30 | 入境、取行李、整理行李                        |
 | 14:30–15:00 | 前往租车柜台，办理取车手续                      |
 | 15:00       | Christchurch Airport 取车              |
-| 15:00–16:00 | 前往酒店 / 入住 / 放行李                     |
-| 16:00–17:30 | 超市补给：Pak'nSave / Woolworths / New World |
-| 17:30–19:00 | Riccarton / CBD 晚餐                   |
+| 15:00–16:00 | 前往 Upper Riccarton 酒店 / 入住 / 放行李      |
+| 16:00–17:30 | Upper Riccarton 附近超市补给                |
+| 17:30–19:00 | Upper Riccarton / Riccarton 晚餐          |
 | 晚上          | 早点休息，准备第二天长距离驾驶                    |
 
 建议补给：水、零食、早餐、车载充电线、保暖衣物、手套、防水外套。
 
-这天不要赶夜路去 Tekapo 或 Twizel。冬季刚落地就开长途不值得，第二天早上再出发更稳。
+这天不要赶夜路去 Tekapo。冬季刚落地就开长途不值得，第二天早上再出发更稳。
 
 ---
 
-## Day 2｜7.11 Christchurch → Tekapo → Lake Pukaki → Twizel
+## Day 2｜7.11 Upper Riccarton → Lake Tekapo
 
-**住宿：Twizel**
+**住宿：Lake Tekapo**
 
 推荐路线：
 
-**Christchurch → Geraldine → Fairlie → Lake Tekapo → Lake Pukaki → Twizel**
+**Upper Riccarton → Geraldine → Fairlie → Lake Tekapo**
 
 预计驾驶时间：
 
-| 路段                        |            时间 |
-| ------------------------- | ------------: |
-| Christchurch → Geraldine  |         约 2小时 |
-| Geraldine → Fairlie       |        约 30分钟 |
-| Fairlie → Lake Tekapo     |     约 30–40分钟 |
-| Lake Tekapo → Lake Pukaki |     约 35–45分钟 |
-| Lake Pukaki → Twizel      |        约 20分钟 |
-| **合计纯驾驶**                 | **约 4–4.5小时** |
+| 路段                       |            时间 |
+| ------------------------ | ------------: |
+| Upper Riccarton → Geraldine |      约 2小时 |
+| Geraldine → Fairlie      |        约 30分钟 |
+| Fairlie → Lake Tekapo    |     约 30–40分钟 |
+| **合计纯驾驶**                | **约 3–3.5小时** |
 
 建议时间：
 
-| 时间          | 安排                     |
-| ----------- | ---------------------- |
-| 09:00       | Christchurch 出发        |
-| 11:00       | Geraldine / Fairlie 休息 |
-| 12:00–13:30 | Lake Tekapo            |
-| 14:00–15:00 | Lake Pukaki            |
-| 15:30–16:00 | 到 Twizel               |
-| 晚上          | Twizel 休息，天气好可看星空      |
+| 时间          | 安排                              |
+| ----------- | ------------------------------- |
+| 09:00       | Upper Riccarton 出发              |
+| 11:00–11:30 | Geraldine 休息 / 咖啡 / 简单补给        |
+| 12:00–13:00 | Fairlie 午餐                       |
+| 13:45–14:30 | 到 Lake Tekapo，入住或寄放行李           |
+| 14:30–16:30 | Lake Tekapo 湖边、Church of the Good Shepherd |
+| 16:30–17:30 | 可选 Mt John / 湖边散步，视天气和路况决定      |
+| 晚上          | Lake Tekapo 休息，天气好可看星空           |
 
 主要景点：
 
 * Lake Tekapo
 * Church of the Good Shepherd
-* Lake Pukaki Viewpoint
-* Peter’s Lookout
-* Twizel 小镇补给、休息
+* Lake Tekapo 湖边
+* 可选 Mt John / Astro Cafe 一带，冬季视开放和路况决定
+* Geraldine / Fairlie 休息补给
 
 说明：
 
 * Christchurch 到 Tekapo 这段前半程景点密度不高，重点是顺利进入 Mackenzie Country。
 * Geraldine 和 Fairlie 更适合作为休息、咖啡、午餐和加油点，不建议安排太多停留。
+* Lake Pukaki 和 Peter’s Lookout 留到 7.12 早上去，更顺路，也能把 7.11 做得轻松一些。
 
 ---
 
-## Day 3｜7.12 Twizel → Aoraki / Mt Cook → Wanaka
+## Day 3｜7.12 Lake Tekapo → Aoraki / Mt Cook → Wanaka
 
 **住宿：Wanaka**
 
 推荐路线：
 
-**Twizel → Lake Pukaki → Aoraki / Mt Cook Village → Hooker Valley 开放段 / Kea Point / Tasman Glacier View → Omarama → Lindis Pass → Wanaka**
+**Lake Tekapo → Lake Pukaki → Aoraki / Mt Cook Village → Hooker Valley 开放段 / Kea Point / Tasman Glacier View → Omarama → Lindis Pass → Wanaka**
 
 预计驾驶时间：
 
 | 路段                             |            时间 |
 | ------------------------------ | ------------: |
-| Twizel → Lake Pukaki           |     约 15–20分钟 |
+| Lake Tekapo → Lake Pukaki      |     约 35–45分钟 |
 | Lake Pukaki → Mt Cook Village  |     约 45–60分钟 |
 | Mt Cook Village → Omarama      |       约 1.5小时 |
 | Omarama → Lindis Pass → Wanaka |    约 1.75–2小时 |
-| **合计纯驾驶**                      | **约 4–4.5小时** |
+| **合计纯驾驶**                      | **约 4.5–5小时** |
 
 天气好版本：
 
 | 时间          | 安排                            |
 | ----------- | ----------------------------- |
-| 08:00       | Twizel 出发                     |
-| 08:30–09:00 | Lake Pukaki / Peter’s Lookout |
-| 09:45       | 到 White Horse Hill car park   |
-| 10:00–11:15 | Hooker Valley Track 开放段       |
-| 11:15–12:30 | Kea Point Track                |
-| 12:45–13:30 | Mt Cook Village 午餐 / 咖啡        |
-| 13:45–14:30 | Tasman Glacier View Track      |
-| 14:30–17:30 | 开往 Wanaka                     |
-| 17:30–18:00 | 到 Wanaka                      |
+| 07:30       | Lake Tekapo 出发                |
+| 08:15–08:45 | Lake Pukaki / Peter’s Lookout |
+| 09:30       | 到 White Horse Hill car park   |
+| 09:45–11:00 | Hooker Valley Track 开放段       |
+| 11:00–12:15 | Kea Point Track                |
+| 12:30–13:15 | Mt Cook Village 午餐 / 咖啡        |
+| 13:30–14:15 | Tasman Glacier View Track      |
+| 14:15–17:45 | 开往 Wanaka                     |
+| 17:45–18:15 | 到 Wanaka                      |
 
 说明：
 
@@ -152,6 +153,7 @@ v1.1
 * 这段仍然值得走，可以看 Mueller Lake、Mueller Glacier、Mount Sefton 一带，但对 Aoraki / Mt Cook 主峰视野有限。
 * Kea Point Track 是目前更适合作为完整 Hooker Valley 替代的短线，从 White Horse Hill 出发约 1 小时往返。
 * Tasman Glacier View Track 很短，约 30–45 分钟，适合作为离开 Mt Cook 前的补充。
+* 因为前一晚住 Lake Tekapo，比住 Twizel 多约 40–60 分钟车程，这天建议 7:30 左右出发。
 
 天气差版本：
 
@@ -416,8 +418,8 @@ Brisbane 住宿建议：
 
 | 日期   | 住宿地          | 建议区域                           |
 | ---- | ------------ | ------------------------------ |
-| 7.10 | Christchurch | Airport / Riccarton / CBD      |
-| 7.11 | Twizel       | 镇中心 / Lake Ruataniwha 附近       |
+| 7.10 | Christchurch | Upper Riccarton                |
+| 7.11 | Lake Tekapo  | 已订 Lake Tekapo 住宿             |
 | 7.12 | Wanaka       | Lakefront / Town Centre        |
 | 7.13 | Queenstown   | CBD / Frankton / Arthurs Point |
 | 7.14 | Queenstown   | 同上                             |
@@ -441,8 +443,8 @@ Brisbane 住宿建议：
 
 ## 出行重点提醒
 
-**7.11 是进入 Mackenzie Country 的公路日**：沿途不必安排太满，重点是顺利到 Twizel。  
-**7.12 是全程最重要的风景日**：Lake Pukaki + Aoraki / Mt Cook，尽量早出发。  
+**7.11 是进入 Mackenzie Country 的公路日**：沿途不必安排太满，重点是顺利到 Lake Tekapo。  
+**7.12 是全程最重要的风景日**：Lake Pukaki + Aoraki / Mt Cook，前一晚住 Lake Tekapo，建议 7:30 左右出发。  
 **7.13 Wanaka → Queenstown**：天气差就别走 Crown Range，改走 Cromwell。  
 **7.15 Milford Sound**：巴士团很长，晚上别安排活动。  
 **7.16 Queenstown → Brisbane**：16:35 国际航班，14:30 还车；当天上午只安排市区轻松活动，务必提前加满油、整理好行李。  
