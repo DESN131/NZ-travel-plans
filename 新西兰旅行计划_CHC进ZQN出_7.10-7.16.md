@@ -12,6 +12,34 @@ v1.3
 
 ---
 
+## 目录
+
+* [行程总览](#行程总览)
+* [行程原则](#行程原则)
+* [Day 1｜7.10 到达 Christchurch](#day-1710-到达-christchurch)
+* [Day 2｜7.11 Upper Riccarton → Lake Tekapo](#day-2711-upper-riccarton--lake-tekapo)
+* [Day 3｜7.12 Lake Tekapo → Aoraki / Mt Cook → Wanaka](#day-3712-lake-tekapo--aoraki--mt-cook--wanaka)
+* [Day 4｜7.13 Wanaka → Queenstown](#day-4713-wanaka--queenstown)
+  * [方案 A｜天气好，走 Crown Range](#方案-a天气好走-crown-range)
+  * [方案 B｜天气差，走 Cromwell](#方案-b天气差走-cromwell)
+* [Day 5｜7.14 Queenstown 一日游 / Glenorchy / 跳伞 / 滑雪](#day-5714-queenstown-一日游--glenorchy--跳伞--滑雪)
+  * [方案 A｜Queenstown + Glenorchy 轻松一日游](#方案-aqueenstown--glenorchy-轻松一日游)
+  * [方案 B｜跳伞 + Queenstown 轻松半日](#方案-b跳伞--queenstown-轻松半日)
+  * [方案 C｜滑雪日](#方案-c滑雪日)
+* [Day 6｜7.15 Milford Sound 一日巴士团](#day-6715-milford-sound-一日巴士团)
+* [Day 7｜7.16 Queenstown → Brisbane](#day-7716-queenstown--brisbane)
+* [Day 8｜7.17 Brisbane 一日游 → Sydney](#day-8717-brisbane-一日游--sydney)
+  * [方案 A｜Lone Pine Koala Sanctuary + Mt Coot-tha Lookout](#方案-alone-pine-koala-sanctuary--mt-coot-tha-lookout)
+  * [方案 B｜Story Bridge Climb + Howard Smith Wharves](#方案-bstory-bridge-climb--howard-smith-wharves)
+  * [方案 C｜QAGOMA / Queensland Museum + Fish Lane](#方案-cqagoma--queensland-museum--fish-lane)
+  * [方案 D｜South Bank + CBD + Brisbane River](#方案-dsouth-bank--cbd--brisbane-river)
+  * [方案 E｜Lone Pine Koala Sanctuary](#方案-elone-pine-koala-sanctuary)
+* [住宿安排汇总](#住宿安排汇总)
+* [航班与租车建议](#航班与租车建议)
+* [出行重点提醒](#出行重点提醒)
+
+---
+
 ## 行程总览
 
 | 日期       | 住宿           | 核心行程                                                               |
