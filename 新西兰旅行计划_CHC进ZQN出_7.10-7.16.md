@@ -1,5 +1,5 @@
 # 新西兰南岛冬季 7 天 6 晚自驾 + Brisbane 过境旅行计划
-v1.2
+v1.3
 
 **行程日期：2026 年 7 月 10 日 – 7 月 17 日**  
 **路线方向：Christchurch → Lake Tekapo → Aoraki / Mt Cook → Wanaka → Queenstown**  
@@ -23,7 +23,7 @@ v1.2
 | **7.14** | Queenstown   | Queenstown 一日游 / Glenorchy / 跳伞 / 滑雪                                |
 | **7.15** | Queenstown   | Milford Sound 一日巴士团                                                |
 | **7.16** | Brisbane     | Queenstown 轻松半日 → 16:35 飞 Brisbane，18:30 到达                      |
-| **7.17** | 返程           | Brisbane 市区 / South Bank 一日游 → 18:05 飞 Sydney                    |
+| **7.17** | 返程           | Brisbane 一日游：Lone Pine / Story Bridge / South Bank 等 → 18:05 飞 Sydney |
 
 ---
 
@@ -33,7 +33,7 @@ v1.2
 * 每天出发前检查天气、路况和租车公司的雪链要求，Crown Range、Lindis Pass、雪场道路尤其需要谨慎。
 * Aoraki / Mt Cook 和 Milford Sound 的行程都高度依赖天气，优先保证安全和缓冲时间。
 * 这版行程不再从 Queenstown 折返 Christchurch，整体更顺路，也更适合第一次南岛自驾。
-* Brisbane 只有一个白天，不建议安排远郊或强度太高的项目，优先选择 South Bank、CBD、City Botanic Gardens 和 Brisbane River。
+* Brisbane 只有一个白天，不建议安排远郊或强度太高的项目。更有意思的优先项是 Lone Pine + Mt Coot-tha 或 Story Bridge Climb；轻松备选是 South Bank、CBD、QAGOMA / Queensland Museum。
 
 ---
 
@@ -397,13 +397,71 @@ Brisbane 住宿建议：
 
 **航班：18:05 Brisbane Airport → Sydney**
 
-这天适合安排轻松的 Brisbane 市区和河岸路线。Brisbane Airport 官方建议国内航班提前 1 小时到机场；考虑到行李、周五晚高峰和不熟悉机场，建议 **16:15–16:30 到达机场**。
+这天适合安排 Brisbane 半日游。Brisbane Airport 官方建议国内航班提前 1 小时到机场；考虑到行李、周五晚高峰和不熟悉机场，建议 **16:15–16:30 到达机场**。
 
-### 推荐路线｜South Bank + CBD + Brisbane River
+如果想要更有体验感，优先考虑 **Lone Pine + Mt Coot-tha** 或 **Story Bridge Climb + Howard Smith Wharves**；如果天气差或想轻松，再选市区 / 博物馆方案。
+
+### 方案 A｜Lone Pine Koala Sanctuary + Mt Coot-tha Lookout
+
+如果想让 Brisbane 一日游更有记忆点，这个方案最推荐：上午看澳洲动物，下午去 Mt Coot-tha 看城市全景。
 
 | 时间          | 安排                                      |
 | ----------- | --------------------------------------- |
-| 08:30–09:30 | 酒店早餐 / 退房，行李寄存在酒店或车上                  |
+| 08:30–09:00 | 退房 / 寄存行李                            |
+| 09:00–09:45 | 前往 Lone Pine Koala Sanctuary           |
+| 09:45–12:30 | Lone Pine 看考拉、袋鼠和澳洲动物                |
+| 12:30–13:15 | 午餐 / 简单休息                            |
+| 13:15–14:00 | 前往 Mt Coot-tha Lookout                 |
+| 14:00–15:00 | Mt Coot-tha 观景台看 Brisbane 全景           |
+| 15:00–16:15 | 取行李并前往 Brisbane Airport               |
+| 16:15–18:05 | 值机、安检、候机                            |
+| 18:05       | 飞往 Sydney                              |
+
+说明：
+
+* 这个方案最好使用租车、出租车或 rideshare；公共交通会拖慢节奏。
+* 如果天气差、能见度不好，可以取消 Mt Coot-tha，改去 Queensland Museum / QAGOMA。
+
+### 方案 B｜Story Bridge Climb + Howard Smith Wharves
+
+适合想在 Brisbane 安排一个明确体验项目的人。Story Bridge Climb 需要提前订场次，只有上午有合适时间才建议选。
+
+| 时间          | 安排                         |
+| ----------- | -------------------------- |
+| 08:30–09:30 | 早餐 / 退房 / 寄存行李             |
+| 10:00–12:30 | Story Bridge Adventure Climb |
+| 12:30–14:00 | Howard Smith Wharves 午餐     |
+| 14:00–15:00 | James Street / Fortitude Valley 简单逛逛 |
+| 15:00–16:15 | 取行李并前往 Brisbane Airport     |
+| 16:15–18:05 | 值机、安检、候机                  |
+| 18:05       | 飞往 Sydney                   |
+
+注意：
+
+* 需要提前订票，并确认实际集合时间、装备要求和天气政策。
+* 如果当天上午没有合适场次，不建议硬塞进返程日。
+
+### 方案 C｜QAGOMA / Queensland Museum + Fish Lane
+
+适合天气差、不想跑远、或者前面新西兰行程已经很累的情况。这个方案比纯散步更有内容，也更稳。
+
+| 时间          | 安排                              |
+| ----------- | ------------------------------- |
+| 09:30–11:00 | Queensland Museum 或 QAGOMA       |
+| 11:00–12:30 | 继续看展 / South Brisbane 周边        |
+| 12:30–14:00 | Fish Lane / West End 午餐          |
+| 14:00–15:15 | West End 咖啡、甜品、简单逛街             |
+| 15:15–16:30 | 取行李并前往 Brisbane Airport          |
+| 16:30–18:05 | 值机、安检、候机                       |
+| 18:05       | 飞往 Sydney                        |
+
+### 方案 D｜South Bank + CBD + Brisbane River
+
+这是最轻松、最稳的市区方案，适合不想订项目、只想随走随停的情况。
+
+| 时间          | 安排                                      |
+| ----------- | --------------------------------------- |
+| 08:30–09:30 | 酒店早餐 / 退房，行李寄存在酒店                  |
 | 09:30–11:00 | South Bank Parklands、Streets Beach、河岸散步 |
 | 11:00–12:00 | 步行过 Victoria Bridge 到 Queen Street Mall |
 | 12:00–13:00 | CBD 午餐                                  |
@@ -423,20 +481,22 @@ Brisbane 住宿建议：
 * Brisbane River / CityCat
 * Howard Smith Wharves
 
-### 备选路线｜Lone Pine Koala Sanctuary
+### 方案 E｜Lone Pine Koala Sanctuary
 
-如果特别想看考拉和澳洲动物，可以把上午和中午改成 Lone Pine Koala Sanctuary：
+如果特别想看考拉和澳洲动物，但不想再加 Mt Coot-tha，可以只安排 Lone Pine。
 
-| 时间          | 安排                         |
-| ----------- | -------------------------- |
-| 08:30–09:30 | 退房、出发前往 Lone Pine          |
-| 09:30–12:30 | Lone Pine Koala Sanctuary  |
-| 12:30–13:30 | 午餐 / 返回市区                  |
-| 13:30–15:00 | South Bank 或 CBD 简单走走       |
-| 15:00–16:30 | 取行李并前往 Brisbane Airport     |
-| 18:05       | 飞往 Sydney                   |
+| 时间          | 安排                              |
+| ----------- | ------------------------------- |
+| 08:30–09:30 | 退房、出发前往 Lone Pine                |
+| 09:30–12:30 | Lone Pine Koala Sanctuary         |
+| 12:30–13:30 | 午餐 / 返回市区                         |
+| 13:30–15:00 | South Bank 或 CBD 简单走走              |
+| 15:00–16:30 | 取行李并前往 Brisbane Airport            |
+| 18:05       | 飞往 Sydney                        |
 
-这个版本更适合非常想看动物的人；如果只是第一次短暂停留 Brisbane，市区 + 河岸路线更轻松。
+不建议选：
+
+* **Eat Street Northshore**：周五通常 16:00 才开始营业，和 18:05 航班冲突，基本来不及。
 
 ---
 
@@ -475,4 +535,4 @@ Brisbane 住宿建议：
 **7.14 Queenstown 活动日**：Fernhill 进出市区、跳伞集合点或滑雪 shuttle 都要额外预留时间。  
 **7.15 Milford Sound**：预订时酒店不在列表就选 Millennium Hotel Queenstown；按电子确认单到公共巴士站，07:10 上车，至少提前 15 分钟到。  
 **7.16 Queenstown → Brisbane**：16:35 国际航班，14:30 还车；从 Fernhill 出发前务必提前加满油、整理好行李。  
-**7.17 Brisbane → Sydney**：Brisbane 一日游以 South Bank、CBD、City Botanic Gardens 和 Brisbane River 为主，16:30 前到机场。
+**7.17 Brisbane → Sydney**：Brisbane 一日游优先选 Lone Pine + Mt Coot-tha 或 Story Bridge Climb；天气差或想轻松则选 QAGOMA / Queensland Museum，16:30 前到机场。
